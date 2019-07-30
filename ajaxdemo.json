@@ -1,0 +1,32 @@
+[
+{
+    "name":"Ajay",
+    "dob":"04/04/1990",
+    "college":"Toc H",
+    "mob":9496856985
+},
+{
+    "name":"Anil",
+    "dob":"07/01/1991",
+    "college":"CUSAT",
+    "mob":9686985698 
+},
+{
+    "name":"Rahul",
+    "dob":"01/05/1992",
+    "college":"SCMS",
+    "mob":9448875698
+},
+{
+    "name":"Rohit",
+    "dob":"02/05/1995",
+    "college":"ASIET",
+    "mob":7769988553
+},
+{
+    "name":"Sunil",
+    "dob":"03/09/1996",
+    "college":"FISAT",
+    "mob":8695741258
+}    
+]
